@@ -1,0 +1,5 @@
+/* Add custom styles for the map container if needed */
+#map {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
